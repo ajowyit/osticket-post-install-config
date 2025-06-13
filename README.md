@@ -5,13 +5,13 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-<h2>Prerequisites</h2>
+<h2>⚠️ Prerequisites</h2>
 
 - [Creating Virtual Machines in the Cloud](https://github.com/ajowyit/creating-virtual-machines)
 
 - [osTicket: Prerequisites and Installation](https://github.com/ajowyit/osticket-prereqs)
 
-<h2>Environments and Technologies Used</h2>
+<h2>💻 Environments and Technologies</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -19,7 +19,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Internet Information Services (IIS)
 - osTicket
 
-<h2>Operating Systems Used </h2>
+<h2>👨‍💻 Operating Systems Used</h2>
 
 - macOS Sequoia
 - Windows 10 (21H2)
