@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - macOS Sequoia
 - Windows 10 (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>📋 Post-Install Configuration Objectives</h2>
 
 - Section 1: Intro to URLs and Admin Panel vs Agent Panel
 - Section 2: [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
