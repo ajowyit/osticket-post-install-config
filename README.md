@@ -9,7 +9,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - [Creating Virtual Machines in the Cloud](https://github.com/ajowyit/creating-virtual-machines)
 
-- [osTicket: Prerequisites and Installation](https://github.com/joshuaheck1/osticket-prereqs)
+- [osTicket: Prerequisites and Installation](https://github.com/ajowyit/osticket-prereqs)
 
 <h2>Environments and Technologies Used</h2>
 
