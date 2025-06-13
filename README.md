@@ -34,40 +34,65 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Section 6: [Service Level Agreements (SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 - Section 7: [Help Topics](https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html)
 
-<h2>Configuration Steps</h2>
+<h2>🪜 Configuration Steps</h2>
 
 <h3>Section 1: Intro to URLs and Admin Panel vs Agent Panel</h3>
 
 <table>
   <tr>
     <td>
-      <img width="1000" alt="PI1" src="https://github.com/user-attachments/assets/faa074b0-ce78-4160-a5fa-884b85f5839d" />
+      <img width="780" alt="Screenshot 2025-06-13 at 12 02 21 AM" src="https://github.com/user-attachments/assets/479034b0-6635-415c-afaa-40735b0d18b4" />
     </td>
     <td>
-      <img width="950" alt="PI2" src="https://github.com/user-attachments/assets/cf2543c2-9760-4806-920b-83b24e39a760" />
+     <img width="892" alt="Screenshot 2025-06-13 at 12 02 42 AM" src="https://github.com/user-attachments/assets/01cdda1a-879f-45aa-9ab3-dcb61f173798" />
     </td>
   </tr>
 </table>
-<p>- osTicket has two main URLs that we will use during this project and the next one.</p>
-<p>- http://localhost/osTicket/scp - Your Staff Control Panel. This is used by Admins and the Help Desk Agents. See Figure 1</p>
-<p>- Bookmark this page in the VM's browser. (Name the bookmark somehting that helps you. Ex: "osTicket Agent Portal")
-<p>- http://localhost/osTicket.com - Your osTicket URL. This is for end users to create tickets and check ticket status. See Figure 2</p>
-<p>- Bookmark this page in the VM's browser. (Name the bookmark something that helps you. Ex: "osTicket Support Center Portal")</p>
+<p>
+  - For osTicket there two main URLs that we will use for this project and the next one.
+</p>
+<p>
+  - http://localhost/osTicket/scp - Your Staff Control Panel. This is used by Admins and the Help Desk Agents. </p>
+<p>
+  - Bookmark this page in the VM's browser. Name it something like: "osTicket Agent Portal"
+</p>
+<p>
+  - http://localhost/osTicket.com - Your osTicket URL. This is for end users to create tickets and check ticket status.
+</p>
+<p>
+  - Bookmark this page in the VM's browser. Name it something like: "osTicket Support Center Portal"
+</p>
+
+<p>
+  <img width="773" alt="Screenshot 2025-06-13 at 12 05 26 AM" src="https://github.com/user-attachments/assets/0e9d5185-d571-496b-8278-ee9e7f5bfafc" />
+</p>
+<p>
+  - Log in on the Staff Control Panel. Remeber from the previous porject that username is adminuser and password is Password1.
+</p>
+<br/>
 
 <table>
   <tr>
     <td>
-      <img width="1000" alt="PI3" src="https://github.com/user-attachments/assets/f9eb004d-3567-470c-b1d6-87d4dec82cee" />
+      <img width="1024" alt="Screenshot 2025-06-13 at 12 06 15 AM" src="https://github.com/user-attachments/assets/35de6945-1d4a-4092-a94c-749f2d81470b" />
     </td>
     <td>
-      <img width="1000" alt="PI4" src="https://github.com/user-attachments/assets/0a2b3cf4-4ae9-43a4-9aa6-710325588676" />
+     <img width="1027" alt="Screenshot 2025-06-13 at 12 07 47 AM" src="https://github.com/user-attachments/assets/8d06f82d-78b9-4fc3-ab45-5438e57efc00" />
     </td>
   </tr>
 </table>
-<p>- Once you're logged in to the Staff Control Panel URL, there are two different panels that can be used depending on your permissions.</p>
-<p>- Admin Panel - This is used by the System Admin to confiured settings on the backend. </p>
-<p>- Agent Panel - This is used by the Help Desk Agents or Support Specialists to view and work tickets.</p>
-<p>- As an Admin, you can switch panels by clicking the panel name in the top right of the screen. We will be jumping between the two a lot during this project. Now, top off your coffee or grab another energy drink and lets get started. </p>
+<p>
+  - Once logged into the Staff Control Panel URL, there are two different panels that can be used depending on your permissions, Admin Panel and Agent Panel.
+</p>
+<p>
+  - Admin Panel - Used by the System Admin to confiured settings on the backend. 
+</p>
+<p>
+  - Agent Panel - Used by the Help Desk Agents or Support Specialists to view and work tickets.
+</p>
+<p>
+  - As an Admin, you can switch panels by clicking the panel name on the top right of the screen. We will jump between the two a lot throughout the project. Lets get started. 
+</p>
 
 <h3>Section 2: Roles</h3>
 
@@ -81,9 +106,14 @@ This tutorial outlines the post-install configuration of the open-source help de
     </td>
   </tr>
 </table>
-<p>- Configure a new role within the Admin Panel. (Remember, "Agent Panel" will display in the top-right of your screen while in the Admin Panel.)</p> 
-<p>- Within Admin Panel, click Agents -> Roles -> + Add New Role.</p> 
-<p>- Name the new role "Supreme Admin" and click the Permissions tab.</p>
+<p>
+  - We will configure a new role within the Admin Panel. (Remember, "Agent Panel" will display in the top-right of your screen while in the Admin Panel.)</p> 
+<p>
+  - Within Admin Panel, click "Agents" -> click "Roles" -> click "+ Add New Role".
+</p> 
+<p>
+  - Name the new role "Supreme Admin". Click the Permissions tab.
+</p>
 <br/>
 
 
@@ -97,9 +127,14 @@ This tutorial outlines the post-install configuration of the open-source help de
     </td>
   </tr>
 </table>
-<p>- We want the Supreme Admin Role to have all the permissions for the sake of this project.</p>
-<p>- Under Tickets, check all the boxes and click Tasks.</p>
-<p>- Under Tasks, check all the boxes again and click Knowledgebase.</p>
+<p>
+  - For this project, we want the Supreme Admin Role to have all the permissions.</p>
+<p>
+  - Under Tickets, check all the boxes. Click "Tasks".
+</p>
+<p>
+  - Under Tasks, check all the boxes again. Click "Knowledgebase".
+</p>
 
 <table>
   <tr>
