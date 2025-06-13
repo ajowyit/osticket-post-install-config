@@ -160,24 +160,34 @@ This tutorial outlines the post-install configuration of the open-source help de
 <table>
   <tr>
     <td>
-      <img width="1000" alt="PI11" src="https://github.com/user-attachments/assets/772d618b-3fad-48bf-940a-e3f982b49607" />
+      <img width="1026" alt="Screenshot 2025-06-13 at 12 25 39 AM" src="https://github.com/user-attachments/assets/515d3df6-d2b6-413c-bd16-7c5b028460fb" />
     </td>
     <td>
-      <img width="1000" alt="PI12" src="https://github.com/user-attachments/assets/65a769eb-fa93-4e87-b451-313259b93378" />
+      <img width="1027" alt="Screenshot 2025-06-13 at 12 58 05 AM" src="https://github.com/user-attachments/assets/90afb357-de8c-40ca-8c08-9756c1c53fd6" />
     </td>
   </tr>
 </table>
-<p>- Within Admin Panel, click Agents -> Departments -> + Add New Department.</p>
-<p>- Under Settings, leave Parent as "Top-Level Department" and name the department "SysAdmins".</p>
-<p>- This is all we'll do here for now. Ignore the Access tab for now because we still need to create some Agents. Scroll down and click Create.</p>
-
 <p>
-<img width="950" alt="PI13" src="https://github.com/user-attachments/assets/f46cdfbf-b156-4c04-9db0-ad821f1dc962" />
-
+  <img width="1024" alt="Screenshot 2025-06-13 at 12 59 13 AM" src="https://github.com/user-attachments/assets/15b136aa-1e26-4079-a525-c05dc15941cd" />
 </p>
-
-<p>- The SysAdmins Department has been successfully added. </p>
-<p>- You can learn more about Departments within osTicket by clicking the link in the Post-Install Configuration Objectives above. </p>
+<p>
+  - Within Admin Panel, click Agents -> Departments -> click + Add New Department.
+</p>
+<p>
+  - Under Settings, make sure you leave Parent as "Top-Level Department". Name the department "SysAdmins".
+</p>
+<p>
+  -Scroll down and click Create.
+</p>
+<p>
+<img width="1028" alt="Screenshot 2025-06-13 at 1 00 13 AM" src="https://github.com/user-attachments/assets/0d03b026-5d9d-473d-aad5-ad1cf0ed99a3" />
+</p>
+<p>
+  - Confirm that the SysAdmins Department has been successfully added. 
+</p>
+<p>
+  - Next we will add a new Team!
+</p>
 <br />
 
 <h3>Section 4: Teams</h3>
@@ -185,26 +195,53 @@ This tutorial outlines the post-install configuration of the open-source help de
 <table>
   <tr>
     <td>
-      <img width="1000" alt="PI14" src="https://github.com/user-attachments/assets/8f5c3b1e-281a-464b-8d0b-3c01dba6aea1" />
+      <img width="1024" alt="Screenshot 2025-06-13 at 1 13 57 AM" src="https://github.com/user-attachments/assets/07bf65f4-86ed-4e05-bafe-a1734c066c5b" />
     </td>
     <td>
-      <img width="1000" alt="PI15" src="https://github.com/user-attachments/assets/928db42c-ffd0-4013-9b4b-c0dc0465d0c3" />
+      <img width="1026" alt="Screenshot 2025-06-13 at 1 16 32 AM" src="https://github.com/user-attachments/assets/3717a133-793e-4986-bb4c-48c67cda59ff" />
     </td>
   </tr>
 </table>
-<p>- Now, we'll add a new Team. Within Admin Panel, click Agents -> Teams -> + Add New Team.</p>
-<p>- Name the Team "Online Banking". </p>
-<p>- We'll will add members when we add Agents later. Click Create Team.</p>
-<p>- You can learn more about Teams within osTicket by clicking the link in the Post-Install Configuration Objectives above.</p>
+<p>
+  - Within Admin Panel, click Agents -> Teams -> + Add New Team.
+</p>
+<p>
+  - Name the Team "Online Banking". 
+</p>
+<p>
+  - Click "Create Team".
+</p>
+<p>
+  <img width="1024" alt="Screenshot 2025-06-13 at 1 17 38 AM" src="https://github.com/user-attachments/assets/fe888398-2735-44f8-b786-7f6a025093ca" />
+</p>
+<p>
+  - Confirm that the team was successfully added.
+</p>
 
 <p>
 <img width="750" alt="PI16" src="https://github.com/user-attachments/assets/6ae0c661-15b2-42ac-8cad-621ad6df1585" />
-
 </p>
 
-<p>- Next, we'll change a setting that will allow somone to create a ticket without having to register an account. The end user will be able to create thier own ticket. </p>
-<p>- From Admin Panel, click Agents -> Settings -> Users. </p>
-<p>- Under Authentication Settings, uncheck the box next to "Require registration and login to create tickets". Click Save Changes.</p>
+
+<table>
+  <tr>
+    <td>
+      <img width="1026" alt="Screenshot 2025-06-13 at 1 18 31 AM" src="https://github.com/user-attachments/assets/9a527b6d-3880-4ef4-90d9-aa68d8c97406" />
+    </td>
+    <td>
+      <img width="1025" alt="Screenshot 2025-06-13 at 1 18 59 AM" src="https://github.com/user-attachments/assets/cea4b02c-440b-4376-a038-0965b4a318e1" />
+    </td>
+  </tr>
+</table>
+<p>
+  - Next, configure the settings so that somone is allowed to create a ticket without having to register an account. The end user will be able to create their own ticket.
+</p>
+<p>
+  - From Admin Panel, click Settings -> Users -> go to the Settings tab.
+</p>
+<p>
+  - Under Authentication Settings, make sure the box next to "Require registration and login to create tickets" is unchecked. "Click Save Changes".
+</p>
 <br />
 
 <h3>Section 5: Agents and Users</h3>
