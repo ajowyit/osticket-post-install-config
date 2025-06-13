@@ -99,31 +99,30 @@ This tutorial outlines the post-install configuration of the open-source help de
 <table>
   <tr>
     <td>
-      <img width="996" alt="PI5" src="https://github.com/user-attachments/assets/e5cc5c49-2a22-4ace-b708-d34fe0df6a5d" />
+      <img width="1025" alt="Screenshot 2025-06-13 at 12 12 34 AM" src="https://github.com/user-attachments/assets/35d07908-c3cc-45f7-9295-f355c74c0194" />
     </td>
     <td>
-      <img width="1000" alt="PI6" src="https://github.com/user-attachments/assets/d8ba554f-ddfc-4985-a821-3738fe940dc1" />
+     <img width="1027" alt="Screenshot 2025-06-13 at 12 13 34 AM" src="https://github.com/user-attachments/assets/5be5ac57-9714-4e4f-85d4-ed24778e4f32" />
     </td>
   </tr>
 </table>
 <p>
   - We will configure a new role within the Admin Panel. (Remember, "Agent Panel" will display in the top-right of your screen while in the Admin Panel.)</p> 
 <p>
-  - Within Admin Panel, click "Agents" -> click "Roles" -> click "+ Add New Role".
+  - In the Admin Panel, click Agents -> click Roles -> click +Add New Role.
 </p> 
 <p>
-  - Name the new role "Supreme Admin". Click the Permissions tab.
+  - Name the new role "Supreme Admin". Then click the Permissions tab.
 </p>
 <br/>
-
 
 <table>
   <tr>
     <td>
-      <img width="1000" alt="PI7" src="https://github.com/user-attachments/assets/f5632967-ea12-44dd-8b93-26e3f682105f" />
+     <img width="1027" alt="Screenshot 2025-06-13 at 12 14 12 AM" src="https://github.com/user-attachments/assets/08f7f408-2e4f-4c76-8275-2878281d393e" />
     </td>
     <td>
-      <img width="1000" alt="PI8" src="https://github.com/user-attachments/assets/02641de8-60f1-427e-b676-d0a21da0d1d0" />
+      <img width="1025" alt="Screenshot 2025-06-13 at 12 14 58 AM" src="https://github.com/user-attachments/assets/1b593618-0b95-4f2a-8793-0b5df8faf902" />
     </td>
   </tr>
 </table>
@@ -139,17 +138,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 <table>
   <tr>
     <td>
-      <img width="1000" alt="PI9" src="https://github.com/user-attachments/assets/e87e2ef8-c613-4a98-925c-81b0edb954e3" />
+      <img width="1025" alt="Screenshot 2025-06-13 at 12 15 46 AM" src="https://github.com/user-attachments/assets/401e13ce-1d6a-4bc1-aa6c-f144460e957f" />
     </td>
     <td>
-      <img width="1000" alt="PI10" src="https://github.com/user-attachments/assets/1a731001-c945-4a61-b859-1d7377126507" />
+      <img width="1029" alt="Screenshot 2025-06-13 at 12 16 51 AM" src="https://github.com/user-attachments/assets/15572df7-8ffd-4087-8d5e-80a4c5147527" />
     </td>
   </tr>
 </table>
-<p>- Under Knowledgebase, check all of the one box and click Add Role.</p>
-<p>- The Supreme Admin Role was successfully added.</p> 
-<p>- You can learn more about Roles within osTicket by clicking the link in the Post-Install Configuration Objectives above.<p/>
-<p>- Next, we'll add a new Department.</p>
+<p>
+  - Under Knowledgebase, check the one and only box and then click "Add Role".
+</p>
+<p>
+  - You should see that the Supreme Admin Role was successfully added!
+</p> 
+<p>
+  - Next, it is time to add a new Department.
+</p>
 
 <h3>Section 3: Departments</h3>
 
