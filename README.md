@@ -507,64 +507,85 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h3>Section 7: Help Topics</h3>
 
 <p>
-<img width="750" alt="PI34" src="https://github.com/user-attachments/assets/6194a8bb-0051-46e3-b109-f50b3938e254" />
+<img width="1030" alt="Screenshot 2025-06-13 at 9 54 30 AM" src="https://github.com/user-attachments/assets/97d544a2-2dfd-4656-a052-dea284f1eff3" />
+</p>
+<p>
+  - For the final section of this project, we will add Help Topics!
+</p>
+<p>
+  - From the Admin Panel, click Manage -> Help Topics -> click "+ Add New Help Topic".
+<p/>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="1031" alt="Screenshot 2025-06-13 at 9 55 22 AM" src="https://github.com/user-attachments/assets/a6491552-bbde-4b5b-bf4b-94e8cb0df411" />
+    </td>
+    <td>
+     <img width="1032" alt="Screenshot 2025-06-13 at 9 56 36 AM" src="https://github.com/user-attachments/assets/32d05e13-7dc3-43bd-a602-ab307a9b5701" />
+    </td>
+  </tr>
+</table>
+<p>
+  - Under Help Topic Information, type "Buisness Critical Outage" in the Topic field and select "Report a Problem" in the Parent Topic field.</p>
+<p>
+  - Click "Add Topic". After sucessfully adding the Help Topic, click "Help Topics" under the Manage tab and click "+ Add New Help Topic" again to add another one.
 </p>
 
-<p>- For the final section of this project, we will add some Help Topics.</p>
-<p>- From Agent Panel, click Manage -> Help Topics -> + Add New Help Topic. <p/>
-<br/>
+<table>
+  <tr>
+    <td>
+     <img width="1031" alt="Screenshot 2025-06-13 at 9 57 04 AM" src="https://github.com/user-attachments/assets/f05de741-bf55-441d-9c08-f69a58810926" />
+    </td>
+    <td>
+     <img width="1033" alt="Screenshot 2025-06-13 at 9 59 02 AM" src="https://github.com/user-attachments/assets/2c604113-2274-4b3d-9d20-9c40ce2935be" />
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
     <td>
-      <img width="1000" alt="PI35" src="https://github.com/user-attachments/assets/9df07a0d-2cbd-4ee1-9886-aff4c4f42304" />
+     <img width="1029" alt="Screenshot 2025-06-13 at 10 00 09 AM" src="https://github.com/user-attachments/assets/e9003f67-6fa6-4ea1-bba4-1c71b7a973e0" />
     </td>
     <td>
-      <img width="1000" alt="PI36" src="https://github.com/user-attachments/assets/51bc7442-76e0-47ae-9f11-ad9da82ea9e8" />
+     <img width="1028" alt="Screenshot 2025-06-13 at 10 01 06 AM" src="https://github.com/user-attachments/assets/21819f7b-40df-4d60-96e7-cf9761870e87" />
     </td>
   </tr>
 </table>
-<p>- Under Help Topic Information, Topic: Buisness Critical Outage | Parent Topic: Report a Problem. See Figure 35</p>
-<p>- Click Add Topic.  </p>
-<p>- Under Help Topic Information, Topic: Personal Computer Issues | Parent Topic: Report a Problem. See Figure 36</p>
-<p>- Click Add Topic.</p>
+
+<p>
+  - Let's do this more times! We will add 4 more SLA's.
+</p>
+<p>
+  - For the first one, Topic: Personal Computer Issues | Parent Topic: Report a Problem. Click "Add Topic". Click "+Add New Help Topic" to add another one. 
+</p>
+<p>
+  - For the second one, Equipment Request | Parent Topic: General Inquiry. Click "Add Topic". Click "+Add New Help Topic" to add another one. 
+</p>
+<p> 
+ - For the third one, Topic: Password Reset | Parent Topic: Report a Problem. Click "+Add New Help Topic" to add another one. 
+</p>
+<p>
+  - For the fourth one,  Other | Parent Topic: General Inquiry
+</p>
 <br/>
 
-<table>
-  <tr>
-    <td>
-      <img width="1000" alt="PI37" src="https://github.com/user-attachments/assets/8e46c387-782d-4c93-8634-8deb4f3e0eb9" />
-    </td>
-    <td>
-      <img width="1000" alt="PI38" src="https://github.com/user-attachments/assets/44622da8-fd2a-4d81-8677-18cfec813ff6" />
-    </td>
-  </tr>
-</table>
-<p>- Under Help Topic Information, Topic: Equipment Request | Parent Topic: General Inquiry. See Figure 37</p>
-<p>- Click Add Topic. </p>
-<p>- Under Help Topic Information, Topic: Password Reset | Parent Topic: Report a Problem. See Figure 38</p>
-<p>- Click Add Topic. </p>
-<br/>
 
-<table>
-  <tr>
-    <td>
-      <img width="1000" alt="PI39" src="https://github.com/user-attachments/assets/2c81095c-4f59-4c35-8056-8e19460a5c69" />
-    </td>
-    <td>
-      <img width="1000" alt="PI40" src="https://github.com/user-attachments/assets/77f141a2-0575-4ece-9140-e571d166cd1b" />
-    </td>
-  </tr>
-</table>
-<p>- Under Help Topic Information, Topic: Other | Parent Topic: General Inquiry. See Figure 39</p>
-<p>- Click Add Topic.  </p>
-<p>- Look at all those Topics!. If you noticed, osTicket already had some deafult Help Topics preloaded for us but adding new ones gave us a chance to learn more about the process.</p>
-<p>- You can learn more about Help Topics within osTicket by clicking the link in the Post-Install Configuration Objectives above.<p/>
+
+<p>
+  <img width="1030" alt="Screenshot 2025-06-13 at 10 01 57 AM" src="https://github.com/user-attachments/assets/45593a58-2b28-4a34-b867-a0428117b19b" />
+</p>
+<p>
+  - Observe all the Topics we added!. If you noticed, osTicket already had some deafult Help Topics preloaded for us but adding new ones gave us a chance to learn more about the process.
+</p>
+
 <br/>
 
 <h2>Conclusion</h2>
 
-<p>This concludes our project. We have successfully completed the post-install configurations for osTicket. We will put our settings to the test in the next lab when we create and work tickets as a User, Agent, and Admin. Don't forget to Stop (turn off) the VMs in Azure. As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
+<p>We’ve successfully completed the post-installation configurations for osTicket on our Azure virtual machine. With the setup in place, we’re now ready to test our configuration by creating and managing support tickets — stepping into the roles of User, Agent, and Admin in the next lab. Remember to stop your Azure VMs to avoid unnecessary charges. Thanks for following along — see you in the next project! 😎   
 </p>
 <br />
 
