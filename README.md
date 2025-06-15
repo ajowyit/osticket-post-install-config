@@ -420,40 +420,88 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 
-<p>- The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.</p>
-<p>- From Agent Panel, click Manage -> SLA -> + Add New SLA Plan.</p>
+<p>
+  - The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.
+</p>
+<p>
+  - From Agent Panel, click Manage -> SLA -> + Add New SLA Plan.
+</p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="1029" alt="Screenshot 2025-06-13 at 9 47 42 AM" src="https://github.com/user-attachments/assets/38f560f9-cea5-415a-8be7-83ee61802fad" />
+    </td>
+    <td>
+      <img width="1030" alt="Screenshot 2025-06-13 at 9 48 30 AM" src="https://github.com/user-attachments/assets/5e550720-1766-45dd-b322-b690189de88d" />
+    </td>
+  </tr>
+</table>
+
+<p>
+  - For the first SLA enter the following info:
+</p>
+<p>
+  - Name: "Sev-A" | Grace Period: 1 hour | Schedule: 24/7
+</p>
+<p>
+  - Click "Add Plan".
+</p>
+<p>
+  - We will be taken back to the Service Level Agreements page where we see a confimation that we sucessfully added a SLA plan. Click "+ Add New Plan" to add another SLA. 
+</p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="1032" alt="Screenshot 2025-06-13 at 9 51 55 AM" src="https://github.com/user-attachments/assets/95f04cf6-597c-49d6-af5e-8a3667722d06" />
+    </td>
+    <td>
+      <img width="1030" alt="Screenshot 2025-06-13 at 9 52 44 AM" src="https://github.com/user-attachments/assets/3497ce38-385b-4409-92cc-d8c817e9ca12" />
+    </td>
+  </tr>
+</table>
+
+<p>
+  - For the next SLA enter the following info:
+</p>
+<p>
+  - Name: "Sev-B" | Grace Period: 4 hours | Schedule: 24/7</p>
+<p>
+  - Click Add Plan.</p>
+<p>
+  - We will be taken back to the Service Level Agreements page where we see a confimation that we sucessfully added a SLA plan. Click "+ Add New Plan" to add another SLA. 
+</p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="1028" alt="Screenshot 2025-06-13 at 9 53 16 AM" src="https://github.com/user-attachments/assets/a9e9c732-edbe-4332-b70c-cccd8c0a2340" />
+    </td>
+    <td>
+      <img width="1030" alt="Screenshot 2025-06-13 at 9 54 05 AM" src="https://github.com/user-attachments/assets/eb9daefa-4eba-49b9-9026-1dc9c036d6e7" />
+    </td>
+  </tr>
+</table>
+
+<p>
+  - For the next SLA enter the following info:
+</p>
+<p>
+  - Name: "Sev-C" | Grace Period: 8 hours | Schedule: Monday - Friday, 8am - 5pm with Holidays. (Normal business hours)
+</p>
+<p>
+  - Click Add Plan.
+</p>
 <br/>
 
 <p>
-<img width="750" alt="PI30" src="https://github.com/user-attachments/assets/88a03023-8a2e-4ccb-ac6b-b05cd4e11d9c" />
+  - The SLA Plans have been successfully added. We will use these when creating and working tickets in the next project.
 </p>
 
-<p>- Name: "Sev-A" | Grace Period: 1 hour | Schedule: 24/7</p>
-<p>- Click Add Plan.</p>
-<br/>
-
-<p>
-<img width="750" alt="PI31" src="https://github.com/user-attachments/assets/4e4c2490-7452-4493-90ff-00fbeb4e47a2" />
-</p>
-
-<p>- Name: "Sev-B" | Grace Period: 4 hours | Schedule: 24/7</p>
-<p>- Click Add Plan.</p>
-<br/>
-
-<p>
-<img width="750" alt="PI32" src="https://github.com/user-attachments/assets/bda12229-512b-42be-9b98-dffceb4b7062" />
-</p>
-
-<p>- Name: "Sev-C" | Grace Period: 8 hours | Schedule: Monday - Friday, 8am - 5pm with Holidays. (Normal business hours)</p>
-<p>- Click Add Plan.</p>
-<br/>
-
-<p>
-<img width="750" alt=<img width="975" alt="PI33" src="https://github.com/user-attachments/assets/49b09cf1-5465-4fa0-9b5d-5ce2eb5996c6" />
-</p>
-
-<p>- The SLA Plans have been successfully added. We will use these when creating and working tickets in the next project.</p>
-<p>- You can learn more about Service Level Agreements within osTicket by clicking the link in the Post-Install Configuration Objectives above.<p/>
 <br/>
 
 <h3>Section 7: Help Topics</h3>
