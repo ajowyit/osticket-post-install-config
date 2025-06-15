@@ -218,8 +218,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Confirm that the team was successfully added.
 </p>
 
-<p>
-<img width="750" alt="PI16" src="https://github.com/user-attachments/assets/6ae0c661-15b2-42ac-8cad-621ad6df1585" />
+
 </p>
 
 
@@ -249,112 +248,176 @@ This tutorial outlines the post-install configuration of the open-source help de
 <table>
   <tr>
     <td>
-      <img width="1000" alt="PI17" src="https://github.com/user-attachments/assets/8ee3d34d-625e-464d-86b3-221df3da96de" />
+      <img width="1032" alt="Screenshot 2025-06-13 at 9 12 06 AM" src="https://github.com/user-attachments/assets/70ed1cbb-cf67-4751-a43c-17d7727424de" />
     </td>
     <td>
-      <img width="1000" alt="PI18" src="https://github.com/user-attachments/assets/d69937e8-a664-49d4-843e-fa82dd1c710e" />
+     <img width="1019" alt="Screenshot 2025-06-13 at 9 13 21 AM" src="https://github.com/user-attachments/assets/92f7bb7f-b8b0-40b3-a623-0fc5e10af22e" />
     </td>
   </tr>
 </table>
-<p>- Time to add some Agents. From Admin Panel, click -> Agents -> Agents -> + Add New Agent. </p>
-<p>- Under Account, name the Agent "Jane Doe". Enter a fake email (Doesn't matter but I stuck with the Help Desk company theme).  </p>
-<p>- Username: jane_doe </p>
-<p>- Click Set Password. </p>
-
 <p>
-<img width="750" alt="PI24" src="https://github.com/user-attachments/assets/94f4d00e-dbc4-4570-b7a9-c0542c1f9461" />
-
+  - Now it is time to add some Agents! From the Admin Panel, click -> Agents -> Agents -> + Add New Agent. 
+</p>
+<p>
+  - Under Account, name the Agent "Jane Doe". Enter a some fake email address(It doesn't matter what email you use here).  
+</p>
+<p>
+  - Username: jane_doe 
+</p>
+<p>
+  - Click "Set Password". 
 </p>
 
-<p>- When you click Set Password a pop-up will appear. Uncheck the box next to "Send the agent a password reset email" and you'll see Figure 19. </p>
-<p>- Set password to "Password1". Uncheck "Require password change at next login". Click Update. </p>
-<p>- You will need to do this when we create the next Agent (John) as well.  </p>
+<p>
+<img width="1021" alt="Screenshot 2025-06-13 at 9 15 12 AM" src="https://github.com/user-attachments/assets/877283be-9245-4927-9142-f2700e0626c7" />
+</p>
 
-
-<table>
-  <tr>
-    <td>
-      <img width="1000" alt="PI19" src="https://github.com/user-attachments/assets/45b36bfc-d0ec-4683-96f2-8dfb095483f1" />
-    </td>
-    <td>
-      <img width="1000" alt="PI20" src="https://github.com/user-attachments/assets/290cb12c-0d0a-49d2-8b35-c13d9a3a98d2" />
-    </td>
-  </tr>
-</table>
-<p>- Under Access -> Primary Department, select SysAdmins. For Role/Permissions, select Supreme Admin. </p>
-<p>- Under Teams, select Online Banking and click Create.  </p>
+<p>
+  - When you click Set Password a pop-up will appear. Uncheck the box next to "Send the agent a password reset email".
+</p>
+<p>
+  - Set password to "Password1". Uncheck "Require password change at next login". Click "Set". 
+</p>
 
 <table>
   <tr>
     <td>
-      <img width="1000" alt="PI21" src="https://github.com/user-attachments/assets/284f42e3-85c1-42b0-849b-5b56e872d03b" />
+      <img width="1025" alt="Screenshot 2025-06-13 at 9 17 12 AM" src="https://github.com/user-attachments/assets/bb48f8fa-3809-4a39-9314-8f98a3a5415a" />
     </td>
     <td>
-      <img width="1000" alt="PI22" src="https://github.com/user-attachments/assets/23f573c1-0166-4469-beb2-9fac9de404ca" />
+      <img width="1025" alt="Screenshot 2025-06-13 at 9 17 58 AM" src="https://github.com/user-attachments/assets/559b6a11-e0fc-454c-a1eb-1eac8027eb75" />
     </td>
   </tr>
 </table>
-<p>- Add another Agent by clicking + Add New Agent.</p>
-<p>- Under Account, name the Agent "John Doe". Enter a fake email.  </p>
-<p>- Username: john_doe </p>
-<p>- Click Set Password. </p>
+
+<table>
+  <tr>
+    <td>
+     <img width="1026" alt="Screenshot 2025-06-13 at 9 18 42 AM" src="https://github.com/user-attachments/assets/9831316f-421e-4288-b76f-a0cf375cd71e" />
+    </td>
+    <td>
+      <img width="1024" alt="Screenshot 2025-06-13 at 9 19 30 AM" src="https://github.com/user-attachments/assets/a80f4543-7354-4a1a-bb72-5c2e6424cf7b" />
+    </td>
+  </tr>
+</table>
+  
+<p>
+  - Under Agents -> Access -> Primary Department, select SysAdmins. For Role/Permissions, select Supreme Admin. </p>
+<p>
+  - Under Teams, select Online Banking, click "Add" and then click "Create".  
+</p>
+
+<table>
+  <tr>
+    <td>
+     <img width="1026" alt="Screenshot 2025-06-13 at 9 19 50 AM" src="https://github.com/user-attachments/assets/92b1fa0c-24ef-454e-a0fb-7be7f2effe6b" />
+    </td>
+    <td>
+      <img width="1024" alt="Screenshot 2025-06-13 at 9 21 52 AM" src="https://github.com/user-attachments/assets/3d149cc2-fbf9-45ea-af72-bc05c92a1ee9" />
+    </td>
+  </tr>
+</table>
+
+<p>
+  - Add another Agent by clicking + Add New Agent.
+</p>
+<p>
+  - Under Account, name the Agent "John Doe". Enter a fake email.  
+</p>
+<p>
+  - Username: john_doe 
+</p>
+<p>
+  - Click "Set Password". 
+</p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+     <img width="1020" alt="Screenshot 2025-06-13 at 9 27 13 AM" src="https://github.com/user-attachments/assets/73a7251f-81bd-45ff-96b9-2642b26cf6ee" />
+    </td>
+    <td>
+      <img width="1026" alt="Screenshot 2025-06-13 at 9 35 21 AM" src="https://github.com/user-attachments/assets/098d9fda-1143-4076-adef-013a4c5d5c6a" />
+    </td>
+  </tr>
+</table>
+
+<p>
+  - Just like before, when you click Set Password a pop-up will appear.
+</p>
+<p>
+  - Uncheck the box next to "Send the agent a password reset email".
+</p>
+<p>
+  - Set password to "Password1". Uncheck "Require password change at next login". Click "Set". 
+</p>
+<p>
+  - Under Access -> Primary Department -> select Support. For Role/Permissions, select Expanded Access. Click "Create".
+</p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+     <img width="1025" alt="Screenshot 2025-06-13 at 9 36 39 AM" src="https://github.com/user-attachments/assets/6349ac0d-f2da-4368-bbaf-3aa0099da895" />
+    </td>
+    <td>
+      <img width="1031" alt="Screenshot 2025-06-13 at 9 36 48 AM" src="https://github.com/user-attachments/assets/807497eb-bf45-4300-a02c-cb0974a3c595" />
+    </td>
+  </tr>
+</table>
+
+<p>
+  - Our Agents have been added. We'll work tickets with both in the next project! 
+</p>
+
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="1032" alt="Screenshot 2025-06-13 at 9 37 14 AM" src="https://github.com/user-attachments/assets/b1a43c1b-cdeb-4f0b-a84c-13bae9e58f52" />
+    </td>
+    <td>
+      <img width="649" alt="Screenshot 2025-06-13 at 9 39 09 AM" src="https://github.com/user-attachments/assets/695bac83-64b3-4ee9-9261-add26d3dfb3f" />
+    </td>
+  </tr>
+</table>
+<p>
+  - Now, we need to add a User. Click Agent Panel at the top-right of the screen.
+</p>
+<p>
+  - Once we are in the Agent Panel, click Users -> click + Add User.  
+</p>
+<p>
+  - In the Email Address field, enter theemail address, karen@lonpacific.com (Fake Email).
+</p>
+<p>
+  - Name the User "Karen" and click "Add User".
+</p>
 <br/>
 
 <p>
-<img width="750" alt="PI24" src="https://github.com/user-attachments/assets/94f4d00e-dbc4-4570-b7a9-c0542c1f9461" />
+<img width="1030" alt="Screenshot 2025-06-13 at 9 39 51 AM" src="https://github.com/user-attachments/assets/f3944616-1248-4f41-b1c1-fdb58473f0fa" />
 </p>
-
-<p>- As before, when you click Set Password a pop-up will appear.</p>
-<p>- Uncheck the box next to "Send the agent a password reset email" and you'll see Figure 19. </p>
-<p>- Set password to "Password1". Uncheck "Require password change at next login". Click Update. </p>
-<br/>
-
-<table>
-  <tr>
-    <td>
-      <img width="1000" alt="PI23" src="https://github.com/user-attachments/assets/36b38331-2e76-44f5-94ad-42d49677d971" />
-    </td>
-    <td>
-      <img width="1000" alt="PI25" src="https://github.com/user-attachments/assets/29814cd4-93f5-4fbe-b3b2-487095432d5b" />
-    </td>
-  </tr>
-</table>
-<p>- Under Access -> Primary Department -> select Support. For Role/Permissions, select Expanded Access. Click Create.</p>
-<p>- Our Agents have been added. We'll work tickets with both in the next project. </p>
-<p>- I know Figure 24 shows "View Only" for John Doe's Role, but that created some issues while trying to work tickets. I had to go back and change it while I was working on the project we'll do next. Changing it to Expanded Access seemed to fix the issue.😉  </p>
-<br/>
-
-<table>
-  <tr>
-    <td>
-      <img width="1000" alt="PI26" src="https://github.com/user-attachments/assets/b680df79-e884-44f9-a47d-c3fce3a584e4" />
-    </td>
-    <td>
-      <img width="1000" alt="PI27" src="https://github.com/user-attachments/assets/4d6f7fe4-67f1-4c82-bec7-9ccd75952be8" />
-    </td>
-  </tr>
-</table>
-<p>- Now, we need to add a User. Click Agent Panel at the top-right of the screen.</p>
-<p>- From Agent Panel, click Users -> + Add User.  </p>
-<p>- Enter email address: karen@lonpacific.com (Fake Email).</p>
-<p>- Name the User "Karen" and click Add User. </p>
-<br/>
 
 <p>
-<img width="750" alt="PI28" src="https://github.com/user-attachments/assets/c98344cd-3bd6-4ff3-a461-85e2b2955beb" />
+  - Karen has been added as a User!
 </p>
-
-<p>- Karen has been added as a User.</p>
-<p>- We'll have Karen creating tickets for our Agents in the next project. </p>
-<p>- Set password to "Password1". Uncheck "Require password change at next login". Click Update. </p>
-<p>- You can learn more about Agents and Users within osTicket by clicking the link in the Post-Install Configuration Objectives above.<p/>
-<p>- Click Agent Panel and start the next Section.</p>
+<p>
+  - We'll have Karen creating tickets for our Agents in the next project. 
+</p>
+<p>
+  - Click Admin Panel before starting the next Section.
+</p>
 <br/>
 
 <h3>Section 6: Service Level Agreements (SLA)</h3>
 
 <p>
-<img width="750" alt="PI29" src="https://github.com/user-attachments/assets/a7b03923-b42d-4cc0-bcbb-b07a5c0a23e4" />
+<img width="1030" alt="Screenshot 2025-06-13 at 9 43 05 AM" src="https://github.com/user-attachments/assets/7c73749d-3866-43dd-bd17-2ac97294cbd5" />
+
 </p>
 
 <p>- The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.</p>
